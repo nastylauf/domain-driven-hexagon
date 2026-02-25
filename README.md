@@ -1302,3 +1302,4 @@ Branch1 change 2
 Branch1 change 3
 Еще строка от branch1 после мержа - 1
 Еще строка от branch1 после мержа - 2
+Еще строка от branch1 после мержа - 3
