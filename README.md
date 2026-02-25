@@ -22,9 +22,7 @@ Patterns and principles presented here are **framework/language agnostic**. Ther
 ---
 
 - [Domain-Driven Hexagon](#domain-driven-hexagon)
-- [Architecture](#architecture)
-      - [Pros](#pros)
-      - [Cons](#cons)
+- [Architecture](#architecture) - [Pros](#pros) - [Cons](#cons)
 - [Diagram](#diagram)
 - [Modules](#modules)
 - [Application Core](#application-core)
@@ -82,7 +80,7 @@ Patterns and principles presented here are **framework/language agnostic**. Ther
 This is an attempt to combine multiple architectural patterns and styles together, such as:
 
 - [Domain-Driven Design (DDD)](https://en.wikipedia.org/wiki/Domain-driven_design)
-- [Hexagonal (Ports and Adapters) Architecture](https://en.wikipedia.org/wiki/Hexagonal_architecture_(software))
+- [Hexagonal (Ports and Adapters) Architecture](<https://en.wikipedia.org/wiki/Hexagonal_architecture_(software)>)
 - [Secure by Design](https://www.manning.com/books/secure-by-design)
 - [Clean Architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
 - [Onion Architecture](https://herbertograca.com/2017/09/21/onion-architecture/)
@@ -1297,6 +1295,10 @@ Read more:
 - ["Implementing Domain-Driven Design"](https://www.amazon.com/Implementing-Domain-Driven-Design-Vaughn-Vernon/dp/0321834577) by Vaughn Vernon
 - ["Clean Architecture: A Craftsman's Guide to Software Structure and Design"](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164/ref=sr_1_1?dchild=1&keywords=clean+architecture&qid=1605343702&s=books&sr=1-1) by Robert Martin
 
+<<<<<<< HEAD
 Branch2 change 1
 Branch2 change 2
 Branch2 change 3
+=======
+
+> > > > > > > branch1
