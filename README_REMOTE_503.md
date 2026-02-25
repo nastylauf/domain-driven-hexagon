@@ -1300,4 +1300,3 @@ Read more:
 Branch1 change 1
 Branch1 change 2
 Branch1 change 3
-Еще строка от branch1 после мержа - 1
